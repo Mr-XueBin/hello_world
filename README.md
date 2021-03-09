@@ -1,2 +1,2 @@
 # hello_world
-first experience to github 
+# it's my first experience to github. And, I am excited to learn and make my own codes for some projects
